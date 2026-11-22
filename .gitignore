@@ -1,0 +1,6 @@
+.env
+.env.*
+!.env.example
+local.settings.json
+node_modules/
+config.js
